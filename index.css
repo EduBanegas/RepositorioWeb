@@ -1,7 +1,7 @@
 body{
-    background-image: url(/Recursos/img/background/background-black.jpg); 
-    background-position: center  ;
-    background-size: cover;
+    background-image: url(/Means/img/background/background-man.jpg); 
+    background-position: center;
+    background-size: contain;
 }
 
 
@@ -63,7 +63,7 @@ body{
 }
 
 .sectionOne_header .profilePicture{
-    background-image: url(/Recursos/img/man-1567933.jpg);
+    background-image: url(/Means/img/man-1567933.jpg);
     background-position: center;
     background-size: cover;
     height: 58.33px;
